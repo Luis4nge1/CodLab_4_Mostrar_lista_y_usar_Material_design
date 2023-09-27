@@ -18,3 +18,7 @@
 ## 20200007
 ![practica](https://github.com/Luis4nge1/CodLab_4_Mostrar_lista_y_usar_Material_design/assets/132635578/9625480a-8bf4-48e6-bb51-1cb16123f74e)
 [practica.pdf](https://github.com/Luis4nge1/CodLab_4_Mostrar_lista_y_usar_Material_design/files/12707794/practica.pdf)
+
+## Ivan Diego Saenz Cotrina - 20200095
+![EVIDENCIA_2_20200095](https://github.com/Luis4nge1/CodLab_4_Mostrar_lista_y_usar_Material_design/assets/102079468/41933692-0bbc-423f-a63e-d2fd861af99b)
+[EVIDENCIA_20200095.pdf](https://github.com/Luis4nge1/CodLab_4_Mostrar_lista_y_usar_Material_design/files/12735112/EVIDENCIA_20200095.pdf)
