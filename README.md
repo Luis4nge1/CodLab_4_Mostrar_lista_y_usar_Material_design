@@ -31,3 +31,8 @@
 ## Ivan Diego Saenz Cotrina - 20200095
 ![EVIDENCIA_2_20200095](https://github.com/Luis4nge1/CodLab_4_Mostrar_lista_y_usar_Material_design/assets/102079468/41933692-0bbc-423f-a63e-d2fd861af99b)
 [EVIDENCIA_20200095.pdf](https://github.com/Luis4nge1/CodLab_4_Mostrar_lista_y_usar_Material_design/files/12735112/EVIDENCIA_20200095.pdf)
+
+
+## Dylan Bruno Gonzales Camarena - 20200113 
+![image](https://github.com/Luis4nge1/CodLab_4_Mostrar_lista_y_usar_Material_design/assets/76236727/00c24b90-e71a-4bec-9ae3-5f56547612d1)
+[20200113.pdf](https://github.com/Luis4nge1/CodLab_4_Mostrar_lista_y_usar_Material_design/files/12743406/20200113.pdf)
