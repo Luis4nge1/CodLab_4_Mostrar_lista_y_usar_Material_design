@@ -40,6 +40,11 @@
 [20200113.pdf](https://github.com/Luis4nge1/CodLab_4_Mostrar_lista_y_usar_Material_design/files/12743406/20200113.pdf)
 
 ## Fabrizzio Josias Quintana Vilca - 20200116
+![image](https://github.com/Luis4nge1/CodLab_4_Mostrar_lista_y_usar_Material_design/assets/104164469/0e94341a-35f2-408e-b752-043ef7807e4d)
+
 [Quiz - Listas Desplazables - 20200116.pdf](https://github.com/Luis4nge1/CodLab_4_Mostrar_lista_y_usar_Material_design/files/12743587/Quiz.-.Listas.Desplazables.-.20200116.pdf)
+
+![image](https://github.com/Luis4nge1/CodLab_4_Mostrar_lista_y_usar_Material_design/assets/104164469/98f59b34-0349-44d3-a13a-ba4c70af1a92)
+[Quiz - Compila apps fabulosas - 20200116.pdf](https://github.com/Luis4nge1/CodLab_4_Mostrar_lista_y_usar_Material_design/files/12743610/Quiz.-.Compila.apps.fabulosas.-.20200116.pdf)
 
 
