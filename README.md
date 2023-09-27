@@ -38,6 +38,9 @@
 ## Dylan Bruno Gonzales Camarena - 20200113 
 ![image](https://github.com/Luis4nge1/CodLab_4_Mostrar_lista_y_usar_Material_design/assets/76236727/00c24b90-e71a-4bec-9ae3-5f56547612d1)
 [20200113.pdf](https://github.com/Luis4nge1/CodLab_4_Mostrar_lista_y_usar_Material_design/files/12743406/20200113.pdf)
+![image](https://github.com/Luis4nge1/CodLab_4_Mostrar_lista_y_usar_Material_design/assets/76236727/a83df5cb-025e-4867-a71d-2dfb69ca8636)
+[EVIDENCIA_20200113.pdf](https://github.com/Luis4nge1/CodLab_4_Mostrar_lista_y_usar_Material_design/files/12743624/EVIDENCIA_20200113.pdf)
+
 
 ## Fabrizzio Josias Quintana Vilca - 20200116
 ![image](https://github.com/Luis4nge1/CodLab_4_Mostrar_lista_y_usar_Material_design/assets/104164469/0e94341a-35f2-408e-b752-043ef7807e4d)
